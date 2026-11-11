@@ -1,5 +1,7 @@
 # Idle Vehicle Storage
 
+<img src="media/icon.png" alt="Idle Vehicle Storage icon" width="128" height="128">
+
 Automatically recalls empty idle owned vehicles after a configurable timeout.
 
 ## Install
