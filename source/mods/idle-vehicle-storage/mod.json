@@ -1,0 +1,12 @@
+{
+  "id": "idle-vehicle-storage",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Idle Vehicle Storage",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Automatically recalls empty idle owned vehicles after a configurable timeout.",
+    "Implementation build only; testing deferred."
+  ]
+}
